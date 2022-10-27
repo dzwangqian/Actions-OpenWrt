@@ -13,4 +13,4 @@
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.100.250/g' package/base-files/files/bin/config_generate
 git clone https://github.com/kiddin9/luci-theme-edge package/lean/luci-theme-edge
-git clone https://github.com/messense/aliyundrive-webdav package/lean/aliyundrive-webdav
+
